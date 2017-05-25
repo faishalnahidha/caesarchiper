@@ -60,7 +60,7 @@ public class DekripsiFragment extends Fragment {
 
                 }
 
-                Toast.makeText(getContext(), "Teks berhasil dienkripsi", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getContext(), "Teks berhasil didekripsi", Toast.LENGTH_SHORT).show();
             }
         });
 
