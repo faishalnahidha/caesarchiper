@@ -1,6 +1,8 @@
 #CAESAR CHIPER APP
 
-A simple android kryptography application to decrypt and encrypt text using caesar chiper algorithm.
+#A simple android cryptography application to decrypt and encrypt text using caesar chiper algorithm.
 
-install caesar_chipper_faishal.apk
-minimum android version 4.4 KitKat
+#Install caesar_chipper_faishal.apk
+#Minimum android version 4.4 KitKat
+
+#Java source code location: /app/src/main/java/com/izzan/caesarchiper/
